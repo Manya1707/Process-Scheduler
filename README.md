@@ -11,7 +11,7 @@ This Java program simulates various CPU scheduling algorithms, including Non-Pre
 ## Usage 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/AbdelrhmanReda17/cpu-schedulers-simulator.git
+   git clone https://github.com/Manya1707/Process-Scheduler.git
 2. Open the project in NetBeans or IntelliJ
 3. Run **Main.java**
 4. **Add Process Details (Burst, Arrival, Priority, Color)**
