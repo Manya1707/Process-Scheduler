@@ -30,5 +30,5 @@ This Java program simulates various CPU scheduling algorithms, including Non-Pre
    - **[NOTE IF YOU ARE USING AG]** A detailed Quantum table will be generated to represent the change of the Quantum for each process
 
 ## Contributors
-- This project is maintained by: [Abdelrhman Reda](https://github.com/AbdelrhmanReda17), [Mahmoud Adel](https://github.com/DarkenSoda), [Abdelrhman Atef](https://github.com/AbdoMan19), [AbdelrhmanAdel](https://github.com/TheOnlyMonster) and [Yassin Tareek](https://github.com/YassinTarekHelmy) and 
+- This project is maintained by: [Vaibhav Tayal](https://github.com/vtayal2405), [Manya Taneja](https://github.com/Manya1707) and 
 - Feel free to explore and analyze the performance of different CPU scheduling algorithms with this simulator.
